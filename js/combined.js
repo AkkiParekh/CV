@@ -277,4 +277,245 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 eval(function(p,a,c,k,e,r){e=function(c){return c.toString(a)};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('1 4=0($,f,g,h){1 i=0(b,c,d){1 e;j 0 o(){1 a=2,3=w;0 7(){5(!d)b.8(a,3);e=k};5(e)l(e);m 5(d)b.8(a,3);e=n(7,c||h)}};6.p[f]=0(a){j a?2.q(g,i(a)):2.r(f)}};4(6,\'s\',\'t\',9);4(6,\'v\',\'u\',9);',33,33,'function|var|this|args|debouncer|if|jQuery|delayed|apply|100||||||||||return|null|clearTimeout|else|setTimeout|debounced|fn|bind|trigger|smartload|load|resize|smartresize|arguments'.split('|'),0,{}));
 
 /* main js */
-eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('(2($){"1T 23";$(\'C\').1Q({1V:21,22:\'1u%\',24:\'\'});$(28).1x(2(){4 d={13:2(){k u.s.r(/13/i)},11:2(){k u.s.r(/11/i)},1t:2(){k u.s.r(/1A|1B|1C/i)},14:2(){k u.s.r(/14 1U/i)},1r:2(){k u.s.r(/1Z/i)},20:2(){k(d.13()||d.11()||d.1t()||d.14()||d.1r())}};4 f=$(\'C\'),$p=$(\'.p\'),$7=$(\'#7\');$(3).t(2(){4 a=v.o($(3).j(),3.w);f.A({1R:\'#7\',8:a>q?0:$p.M()})});$(3).G(2(){4 a=v.o($(3).j(),3.w),Q=$(\'C\').K(\'1q.A\'),8=a>q?0:$p.M();Q.25.8=8;f.K(\'1q.A\',Q);f.A(\'26\')});$(3).t(2(){U()});$(3).G(2(){U()});2 U(){$(\'.2b-2k > a\').2l(\'W\',2(e){4 a=v.o($(3).j(),3.w),1o=$(6),12=1o.1D(\'12\'),8=a>q?0:$p.M();$(\'1E, C\').1F().1H({1I:$(12).8().1K-(8-1)},1N,\'1P\');y(a<q){$7.1m(\'1S\')}e.2m()})};$(\'.1l-1k-1W\').W(2(){$7.1X()});$(\'.1l-1k-1Y\').W(2(){$7.1m()});$(3).G(2(){4 a=v.o($(3).j(),3.w);y(a>=q){$7.N()}16{$7.P()}});$(3).t(2(){S()});$(3).G(2(){S()});2 S(){4 a=v.o($(3).j(),3.w),R=$(\'.m\',\'#1h-1g-27\'),V=$(\'.m\',\'#1h-1g-29\');y(a<2a){R.m(\'N\');V.m(\'N\')}16{R.1f(\':1d\').m(\'P\');V.1f(\':1d\').m(\'P\')}};4 g=$(\'.1c-1y-5\'),$1b=g.9(\'.5-1a\');$(3).t(2(){$1b.9(\'.5-J\').18(2(){4 a=$(6).K(\'J\');$(6).17(a+\'%\');$(6).1G().15(\'j\',a+\'%\')})});4 h=$(\'.1c-1J-5\'),x=\'19-1L-1M\',I=\'19-1O\',10=x,Y=I,X=I,F=1e;$(3).t(2(){h.18(2(){4 a=$(6).9(\'.5-1a\'),$E=$(6).9(\'.5-J\');4 b=$E.K(\'J\'),n=(b/1i*1j),B=n;y(b<1u){10=I;Y=x;X=x;F=(b/1i*1j+1e);B=0}$(\'<l L="5-z 1n"></l>\').Z(a);$(\'<l L="5-z 1p"></l>\').Z(a);4 c=$(6).9(\'.5-z.1n\'),$T=$(6).9(\'.5-z.1p\');a.O(10);c.O(Y);c.15({\'-1s-H\':\'D(\'+F+\'n)\',H:\'D(\'+F+\'n)\'});$T.O(X);$T.15({\'-1s-H\':\'D(\'+B+\'n)\',H:\'D(\'+B+\'n)\'});$(\'<l L="2c-2d 2e-2f"></l>\').Z($E);$E.2g().17(b+\'%\')})});$(\'.2h-2i\').2j(2(){$(6).1v(\'1w\')},2(){$(6).1v(\'1w\')})})})(1z);',62,147,'||function|window|var|chart|this|navigation|offset|find||||||||||width|return|span|collapse|deg|max|header|992|match|userAgent|smartload|navigator|Math|innerWidth|grayColor|if|slice|scrollspy|deg2|body|rotate|circleChartPercent|deg1|smartresize|transform|baseColor|percent|data|class|height|show|addClass|hide|dataScrollSpy|workItem|resumeCollapse|circleSlice2|pageScroll|educationItem|click|sliceColor2|sliceColor1|prependTo|itemColor|BlackBerry|href|Android|Opera|css|else|text|each|background|item|barChartItem|skills|first|90|not|group|panel|100|360|trigger|nav|fadeOut|one|anchor|two|bs|Windows|webkit|iOS|50|toggleClass|active|ready|bar|jQuery|iPhone|iPad|iPod|attr|html|stop|parent|animate|scrollTop|circle|top|gray|dark|1000|color|easeInOutExpo|jpreLoader|target|fast|use|Mini|showPercentage|open|fadeIn|close|IEMobile|any|false|loaderVPos|strict|closeBtnText|options|refresh|work|document|education|768|page|display|block|title|small|children|project|detail|hover|scroll|bind|preventDefault'.split('|'),0,{}));
+(function($){
+    "use strict";
+
+    /*
+     * Preloader.
+     */
+
+    $('body').jpreLoader({
+        showPercentage: false,
+        loaderVPos: '50%',
+        closeBtnText: ''
+    });
+    
+    
+    $(document).ready(function(){
+            
+        /*
+         * Detect mobile device.
+         * Source: http://www.abeautifulsite.net/detecting-mobile-devices-with-javascript/
+         */
+        
+        var isMobile = {
+            Android: function(){
+                return navigator.userAgent.match(/Android/i);
+            },
+            BlackBerry: function(){
+                return navigator.userAgent.match(/BlackBerry/i);
+            },
+            iOS: function(){
+                return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+            },
+            Opera: function(){
+                return navigator.userAgent.match(/Opera Mini/i);
+            },
+            Windows: function(){
+                return navigator.userAgent.match(/IEMobile/i);
+            },
+            any: function(){
+                return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+            }
+        };
+        
+        
+        
+        /*
+         * Navigation - Bootstrap scrollspy
+         */
+        
+        var $body = $('body'),
+            $header = $('.header'),
+            $navigation = $('#navigation');
+        
+        $(window).smartload(function(){
+            var ww = Math.max($(window).width(), window.innerWidth);
+            $body.scrollspy({    
+                target: '#navigation',
+                offset: ww > 992 ? 0 : $header.height()
+            });
+        });
+        
+        $(window).smartresize(function(){
+            var ww = Math.max($(window).width(), window.innerWidth),
+                dataScrollSpy = $('body').data('bs.scrollspy'),
+                offset = ww > 992 ? 0 : $header.height();
+            
+            dataScrollSpy.options.offset = offset;
+            $body.data('bs.scrollspy', dataScrollSpy);
+            $body.scrollspy('refresh');
+        });
+        
+        
+        
+        /*
+         * Navigation - Page scrolling feature
+         */
+        
+        $(window).smartload(function(){
+            pageScroll();
+        });
+        
+        $(window).smartresize(function(){
+            pageScroll();
+        });
+        
+        function pageScroll(){
+            $('.page-scroll > a').bind('click', function(e){
+                var ww = Math.max($(window).width(), window.innerWidth),
+                    anchor = $(this),
+                    href = anchor.attr('href'),
+                    offset = ww > 992 ? 0 : $header.height();
+
+                $('html, body').stop().animate({
+                    scrollTop: $(href).offset().top - (offset - 1)
+                }, 1000, 'easeInOutExpo');
+                
+                if(ww < 992){
+                    $navigation.fadeOut('fast');
+                }
+                
+                e.preventDefault();
+            });
+        };
+        
+        
+        
+        /*
+         * Navigation - Show & hide
+         */
+        
+        $('.nav-trigger-open').click(function(){
+            $navigation.fadeIn();
+        });
+        
+        $('.nav-trigger-close').click(function(){
+            $navigation.fadeOut();
+        });
+        
+        $(window).smartresize(function(){
+            var ww = Math.max($(window).width(), window.innerWidth);
+            if(ww >= 992){
+                $navigation.show();
+            }
+            else{
+                $navigation.hide();
+            }
+        });
+        
+        
+        
+        /*
+         * Resume - Collapse
+         */
+        
+        $(window).smartload(function(){
+            resumeCollapse();
+        });
+
+        $(window).smartresize(function(){
+            resumeCollapse();
+        });
+    
+        function resumeCollapse(){
+            var ww = Math.max($(window).width(), window.innerWidth),
+            workItem = $('.collapse', '#panel-group-work'),
+            educationItem = $('.collapse', '#panel-group-education');
+
+            if (ww < 768){
+                workItem.collapse('show');
+                educationItem.collapse('show');
+            }
+            else{
+                workItem.not(':first').collapse('hide');
+                educationItem.not(':first').collapse('hide');
+            }
+        };
+        
+        
+        
+        /*
+         * Skills - Bar chart
+         */
+        
+        var $skillsBarChart = $('.skills-bar-chart'),
+            $barChartItem = $skillsBarChart.find('.chart-item');
+            
+        $(window).smartload(function(){
+            $barChartItem.find('.chart-percent').each(function(){
+                var percent = $(this).data('percent');
+                $(this).text(percent + '%');
+                $(this).parent().css('width', percent + '%');
+            });
+        });
+        
+        
+        
+        /*
+         * Skills - Circle chart
+         */
+        
+        var $circleChart = $('.skills-circle-chart'),
+            grayColor = 'background-gray-dark',
+            baseColor = 'background-color',
+            itemColor = grayColor,
+            sliceColor1 = baseColor,
+            sliceColor2 = baseColor,
+            deg1 = 90;
+            
+        $(window).smartload(function(){
+            $circleChart.each(function(){
+                var $circleChartItem = $(this).find('.chart-item'),
+                    $circleChartPercent = $(this).find('.chart-percent');
+
+                var circleChartPercent = $circleChartPercent.data('percent'),
+                    deg = (circleChartPercent / 100 * 360),
+                    deg2 = deg;
+
+                if(circleChartPercent < 50){
+                    itemColor = baseColor;
+                    sliceColor1 = grayColor;
+                    sliceColor2 = grayColor;
+                    deg1 = (circleChartPercent / 100 * 360 + 90);
+                    deg2 = 0;
+                }
+
+                $('<span class="chart-slice one"></span>').prependTo($circleChartItem);
+                $('<span class="chart-slice two"></span>').prependTo($circleChartItem);
+
+                var $circleSlice1 = $(this).find('.chart-slice.one'),
+                    $circleSlice2 = $(this).find('.chart-slice.two');
+
+                $circleChartItem.addClass(itemColor);
+
+                $circleSlice1.addClass(sliceColor1);
+                $circleSlice1.css({
+                    '-webkit-transform': 'rotate(' + deg1 + 'deg)',
+                    transform: 'rotate(' + deg1 + 'deg)'
+                });
+
+                $circleSlice2.addClass(sliceColor2);
+                $circleSlice2.css({
+                    '-webkit-transform': 'rotate(' + deg2 + 'deg)',
+                    transform: 'rotate(' + deg2 + 'deg)'
+                });
+
+                $('<span class="display-block title-small"></span>').prependTo($circleChartPercent);
+                $circleChartPercent.children().text(circleChartPercent + '%');
+            });
+        });
+        
+        
+        
+        /*
+         * Project detail - Show & hide
+         */
+        
+        $('.project-detail').hover(function(){
+            $(this).toggleClass('active');
+        }, function(){
+            $(this).toggleClass('active');
+        });
+    });
+})(jQuery);
