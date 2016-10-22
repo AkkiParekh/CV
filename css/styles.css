@@ -2706,6 +2706,7 @@ i-rounded {
 }
 
 .project-about .thumb {
+  min-height: 300px;
   max-height: 300px;
   overflow:hidden;
 }
