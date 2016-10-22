@@ -59,6 +59,11 @@
         });
         
         $(window).smartresize(function(){
+            $body.scrollspy({    
+                target: '#navigation',
+                offset: ww > 992 ? 0 : $header.height()
+            });
+            
             var ww = Math.max($(window).width(), window.innerWidth),
                 dataScrollSpy = $('body').data('bs.scrollspy'),
                 offset = ww > 992 ? 0 : $header.height();
@@ -99,7 +104,7 @@
                 
                 e.preventDefault();
             });
-        };
+        }
         
         
         
@@ -152,7 +157,7 @@
                 workItem.not(':first').collapse('hide');
                 educationItem.not(':first').collapse('hide');
             }
-        };
+        }
         
         
         
