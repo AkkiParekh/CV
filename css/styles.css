@@ -2087,7 +2087,7 @@ i-rounded {
 }
 
 .profile-detail .inner-content {
-  background: #fcfcfc url("../images/bg-profile-detail.jpg");
+  background: #fcfcfc url("../img/bg-profile-detail.jpg");
   -webkit-box-shadow: 0px 15px 30px -10px rgba(0, 0, 0, 0.07);
   -moz-box-shadow: 0px 15px 30px -10px rgba(0, 0, 0, 0.07);
   box-shadow: 0px 15px 30px -10px rgba(0, 0, 0, 0.07);
@@ -2430,7 +2430,7 @@ i-rounded {
 }
 
 .panel-group.panel-resume .panel-body {
-  background: #ffffff url("../images/bg-panel-body.jpg");
+  background: #ffffff url("../img/bg-panel-body.jpg");
   line-height: 28px !important;
   padding: 18px;
 }
@@ -2790,7 +2790,7 @@ i-rounded {
 }
 
 .contact > .col {
-  background: #fcfcfc url("../images/bg-contact.jpg");
+  background: #fcfcfc url("../img/bg-contact.jpg");
   -webkit-box-shadow: 0px 3px 30px 3px rgba(0, 0, 0, 0.03);
   -moz-box-shadow: 0px 3px 30px 3px rgba(0, 0, 0, 0.03);
   box-shadow: 0px 3px 30px 3px rgba(0, 0, 0, 0.03);
