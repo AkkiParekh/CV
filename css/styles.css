@@ -261,8 +261,8 @@ h6 {
 }
 
 .title-extra-large-3 {
-  font-size: 50px !important;
-  line-height: 70px !important;
+  font-size: 40px !important;
+  line-height: 60px !important;
 }
 
 .title-extra-large-4 {
@@ -325,6 +325,10 @@ h6 {
 
 .text-color {
   color: #ff4f00 !important;
+}
+
+.text-bold{
+  font-weight:bold;
 }
 
 
@@ -1979,7 +1983,7 @@ i-rounded {
 \*------------------------------------*/
 
 #home {
-  height: 450px;
+  height:400px;
 }
 
 @media (max-width: 991px) {
